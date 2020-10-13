@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gardo\\source\\repos\\APICH\\APICH\\APICH.csproj": {}
+    "C:\\Users\\gardo\\source\\repos\\APIC\\APICH\\APICH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gardo\\source\\repos\\APICH\\APICH\\APICH.csproj": {
+    "C:\\Users\\gardo\\source\\repos\\APIC\\APICH\\APICH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gardo\\source\\repos\\APICH\\APICH\\APICH.csproj",
+        "projectUniqueName": "C:\\Users\\gardo\\source\\repos\\APIC\\APICH\\APICH.csproj",
         "projectName": "APICH",
-        "projectPath": "C:\\Users\\gardo\\source\\repos\\APICH\\APICH\\APICH.csproj",
+        "projectPath": "C:\\Users\\gardo\\source\\repos\\APIC\\APICH\\APICH.csproj",
         "packagesPath": "C:\\Users\\gardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gardo\\source\\repos\\APICH\\APICH\\obj\\",
+        "outputPath": "C:\\Users\\gardo\\source\\repos\\APIC\\APICH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

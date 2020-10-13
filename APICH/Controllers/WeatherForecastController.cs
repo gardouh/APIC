@@ -37,7 +37,7 @@ namespace APICH.Controllers
                 email = "email@email.fr",
                 username = Summaries[index],
                 UserToken = "XXXX",
-                password = index.ToString(),
+                password = "12345678",
             })
             .ToArray();
         }

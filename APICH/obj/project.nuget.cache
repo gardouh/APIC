@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "On/i7SNwrvr/XWr7xGWCkVXrvv0/1+QcD6FQO2x5AJHL+0dJVSDhT9wN/J7c3v7730qco3lt+qmPuMe1pTOcQg==",
+  "dgSpecHash": "571eRqW59Cz1sHzEcVuVPWpo6X6Kr9Bh64XGrAx82SWSCLUUKGkIoEoiEyU0wJKclCdN+BkVJH12WHnFMEUSLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gardo\\source\\repos\\APICH\\APICH\\APICH.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gardo\\source\\repos\\APIC\\APICH\\APICH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.8\\microsoft.entityframeworkcore.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.8\\microsoft.entityframeworkcore.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.8\\microsoft.entityframeworkcore.analyzers.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.8\\microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.8\\microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\gardo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
